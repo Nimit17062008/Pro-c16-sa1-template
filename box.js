@@ -14,7 +14,13 @@ class Box
     }
     
     //write function to set the width of the box
+    setwidth(w){
+      this.w = w
+    }
+
 
   }
+
+  
 
   
